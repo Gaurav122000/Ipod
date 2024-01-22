@@ -8,3 +8,4 @@ Click and hold on to the circular menu and circularly move the mouse inside the 
 Listen to music by selecting “All Songs” in the Music menu.
 To toggle between the themes in settings: Classic & Dark.
 To change the wallpaper of the app in the settings.
+.................................................................................................................................................................
